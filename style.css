@@ -1,5 +1,5 @@
 body{
-    position: inherit;
+    display: table;
     text-align: center;
     margin-top: 0px;
     margin-left: 0px;
@@ -34,7 +34,7 @@ p{
 }
 .cloud1{
     position: relative;  
-    left: 300px;
+    left: 200px;
     top: 100px;
 
 }
